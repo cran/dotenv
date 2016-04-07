@@ -1,7 +1,8 @@
-145af531b4ba325b234584e2f067f241 *DESCRIPTION
-3d55ef9a10c04c95a867277c02d32bca *LICENSE
-4fbbec24ea143358516bc9ebed036ff7 *NAMESPACE
-044942da8e4b925f59bd4d8cdb96438c *R/dotenv-package.r
-1cacb6ee3eb39fa5f4cb80c22afcc034 *README.md
-b340318dc27d0a910b8862e989a93b4d *man/dotenv-package.Rd
-a196972d3dbe4b9992be7d643e61ddf3 *man/load_dot_env.Rd
+ca411ce07d41b8b4e317e30ae9f81242 *DESCRIPTION
+71e081e70f89b75ba2781efdce97f3b4 *LICENSE
+b0f7571a9415b25de0022a7e2e995e93 *NAMESPACE
+04b5cc9283821e59cc5dfe52542d0946 *R/dotenv-package.r
+04ed735c70fdd5487a17e0ac53671ce0 *README.md
+fc8a4e86557baef0a765deb672c117f3 *man/dotenv-package.Rd
+239923e1a7d5819349c6d60d356651bb *man/load_dot_env.Rd
+0a18c31e112f3fcb0dbbd15f9962c724 *vignettes/README.Rmd

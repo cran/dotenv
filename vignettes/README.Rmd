@@ -1,5 +1,12 @@
 
-
+```{r, setup, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(
+  comment = "##",
+  error = TRUE,
+  tidy = FALSE,
+  fig.width = 8,
+  fig.height = 8)
+```
 
 [![Linux Build Status](https://travis-ci.org/gaborcsardi/dotenv.svg?branch=master)](https://travis-ci.org/gaborcsardi/dotenv)
 [![Windows build status](https://ci.appveyor.com/api/projects/status/github/gaborcsardi/dotenv?svg=true)](https://ci.appveyor.com/project/gaborcsardi/dotenv)
@@ -20,8 +27,7 @@ to load variables from arbitrary files.
 
 ## Installation
 
-
-```r
+```{r eval = FALSE}
 devtools::install_github("gaborcsardi/dotenv")
 ```
 
@@ -29,8 +35,7 @@ devtools::install_github("gaborcsardi/dotenv")
 
 You can simply put
 
-
-```r
+```{r eval = FALSE}
 library(dotenv)
 ```
 
